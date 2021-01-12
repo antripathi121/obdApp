@@ -1,0 +1,67 @@
+{
+  "_from": "cordova-plugin-cloud-settings",
+  "_id": "cordova-plugin-cloud-settings@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-DteyoUEjvI27IDDL4iuW6Bef5Pb/1ODg7EY54MVLtMMslvuf5D2paScxwIzfolRq9gWRdREpVtJfgLgnnwpgJA==",
+  "_location": "/cordova-plugin-cloud-settings",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-cloud-settings",
+    "name": "cordova-plugin-cloud-settings",
+    "escapedName": "cordova-plugin-cloud-settings",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-cloud-settings/-/cordova-plugin-cloud-settings-1.0.4.tgz",
+  "_shasum": "f30d50ca5034a40691c19c2a5376c9560ed1bd8b",
+  "_spec": "cordova-plugin-cloud-settings",
+  "_where": "/home/anurag/Desktop/obdNew",
+  "author": {
+    "name": "Dave Alden"
+  },
+  "bugs": {
+    "url": "https://github.com/dpa99c/cordova-plugin-cloud-settings/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-cloud-settings",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "xml2js": "^0.4.9"
+  },
+  "deprecated": false,
+  "description": "A Cordova plugin for Android & iOS to persist user settings in cloud storage across devices and installs.",
+  "devDependencies": {},
+  "homepage": "https://github.com/dpa99c/cordova-plugin-cloud-settings#readme",
+  "issue": "https://github.com/dpa99c/cordova-plugin-cloud-settings/issues",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "phonegap",
+    "backup",
+    "cloud",
+    "settings",
+    "icloud"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-cloud-settings",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpa99c/cordova-plugin-cloud-settings.git"
+  },
+  "types": "./cordova-plugin-cloud-settings.d.ts",
+  "version": "1.0.4"
+}
